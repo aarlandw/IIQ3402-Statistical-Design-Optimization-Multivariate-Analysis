@@ -14,3 +14,9 @@ Los códigos que acompañan a las ayudantías pueden ser encontrados en la sigui
 |  **Ayudantía** | **Contenido**  | **Google Colab**
 |---|---|---|
 |Clase 2: Análisis exploratorio de Datos  |  Visualizaciones de datos. | |
+
+
+----
+Material Complementario y Tutoriales:
+- [Data Analysis With Python - FireCode](https://www.youtube.com/watch?v=r-uOLxNrNk8)
+- [Python for Data Analysis - Wes McKinney](https://wesmckinney.com/book/)
