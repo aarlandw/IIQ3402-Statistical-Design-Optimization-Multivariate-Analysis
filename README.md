@@ -4,7 +4,7 @@ Los códigos que acompañan a las clases pueden ser encontrados en la siguiente 
 
 
 |  **Clase** | **Contenido**  | **Google Colab**
-
+|---|---|---|
 ## Ayudantías
 
 Los códigos que acompañan a las ayudantías pueden ser encontrados en la siguiente tabla.
