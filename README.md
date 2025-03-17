@@ -13,6 +13,7 @@ Los códigos que acompañan a las ayudantías pueden ser encontrados en la sigui
 |  **Ayudantía** | **Contenido**  | **Google Colab**
 |---|---|---|
 |Ayudantía 1: Introducción a la programación científica en Python  |  Estructuras de Datos, funciones, objetos e instalación de librerías | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia1_IntroduccionPython.ipynb)|
+|Ayudantía 2: Análisis Exploratorio de Datos  | Trabajo con `DataFrames`, grafico de datos numéricos, cálculo de estadísticos descriptivos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia2_AnalisisExploratorio.ipynb)|
 
 
 ----
