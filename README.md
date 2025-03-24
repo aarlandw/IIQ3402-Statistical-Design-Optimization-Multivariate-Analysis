@@ -6,6 +6,9 @@ Los códigos que acompañan a las clases pueden ser encontrados en la siguiente 
 |  **Clase** | **Contenido**  | **Google Colab**
 |---|---|---|
 |Clase 3 y 4| Análisis exploratorio de datos, Tipos de Gráficos, Generación de figuras con `python`| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase3_4_AnalisisExploratorioDeDatos.ipynb)|
+|Clase 5| Distribución muestral, Teorema Central del Límite, Intervalos de confianza| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase5_InferenciaEstadistica_I.ipynb)|
+|Clase 6| Z-test| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase6_InferenciaEstadistica_II.ipynb)|
+
 ## Ayudantías
 
 Los códigos que acompañan a las ayudantías pueden ser encontrados en la siguiente tabla.
