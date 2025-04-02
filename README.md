@@ -18,7 +18,8 @@ Los códigos que acompañan a las ayudantías pueden ser encontrados en la sigui
 |---|---|---|
 |Ayudantía 1: Introducción a la programación científica en Python  |  Estructuras de Datos, funciones, objetos e instalación de librerías | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia1_IntroduccionPython.ipynb)|
 |Ayudantía 2: Análisis Exploratorio de Datos  | Trabajo con `DataFrames`, grafico de datos numéricos, cálculo de estadísticos descriptivos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia2_AnalisisExploratorio.ipynb)|
-
+|Ayudantía 3: Introducción a los test de hipótesis| Intervalos de confianza, distribución normal, test z (introducción) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia3_IntroduccionALosTestDeHipotesis.ipynb) |
+|Ayudantía 4: Test z y Test t| Distribución t, test t y z, tests no paramétricos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia4_ztest_y_ttest.ipynb)|
 
 ----
 Material Complementario y Tutoriales:
