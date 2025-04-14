@@ -1,0 +1,15 @@
+Descripcion datos y variables Tarea 1
+
+Banana: Variable binaria. Si el individuo reconoce el olor a platano es 1 de lo es contrario 0.
+Caramel: Variable binaria. Si el individuo reconoce el olor a caramelo es 1 de lo es contrario 0. 
+Mint: Variable binaria. Si el individuo reconoce el olor a menta es 1 de lo es contrario 0.
+Orange: Variable binaria. Si el individuo reconoce el olor a naranja es 1 de lo es contrario 0.
+Pineapple: Variable binaria. Si el individuo reconoce el olor a piña es 1 de lo es contrario 0.
+Vanilla: Variable binaria. Si el individuo reconoce el olor a vainilla es 1 de lo es contrario 0.
+1__Cold: Variable binaria. Si el individuo autoreporta que esta resfriado es 1 de lo es contrario 0.
+2__Cough: Variable binaria. Si el individuo autoreporta que tiene tos es 1 de lo es contrario 0.
+3__Fever: Variable binaria. Si el individuo autoreporta que tiene fiebre es 1 de lo es contrario 0.
+4__Muscular_pain: Variable binaria. Si el individuo autoreporta que tiene dolor muscular es 1 de lo es contrario 0.
+5__Breathing_difficulty: Variable binaria. Si el individuo autoreporta que tiene dificultad para respirar es 1 de lo es contrario 0.
+6__Self_reported_anosmia: Variable binaria. Si el individuo autoreporta que perdio el olfato es 1 de lo es contrario 0. 
+COVID19_PCR: Variable binaria. Si el individuo tiene examen PCR positivo por COVID19 es 1 de lo es contrario 0. 
