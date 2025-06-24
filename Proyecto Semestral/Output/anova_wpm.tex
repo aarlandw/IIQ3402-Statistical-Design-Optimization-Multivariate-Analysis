@@ -1,0 +1,24 @@
+
+        \begin{table}[htbp]
+            \centering
+            \caption{Mixed-effects model for typing speed.}
+            \label{tab:wpm}
+            \footnotesize
+            \begin{tabular}{lllllll}
+\toprule
+ & Coef. & Std.Err. & z & P>|z| & [0.025 & 0.975] \\
+\midrule
+Intercept & 54.679 & 7.086 & 7.716 & 0.000 & 40.790 & 68.567 \\
+music_type[T.Classical] & -0.800 & 1.814 & -0.441 & 0.659 & -4.355 & 2.755 \\
+music_type[T.Hardstyle] & 0.111 & 1.814 & 0.061 & 0.951 & -3.444 & 3.666 \\
+time_awake[T.4-8h] & 3.548 & 2.083 & 1.703 & 0.089 & -0.535 & 7.630 \\
+time_awake[T.12h+] & 2.588 & 1.849 & 1.400 & 0.161 & -1.035 & 6.211 \\
+music_type[T.Classical]:time_awake[T.4-8h] & 1.250 & 2.695 & 0.464 & 0.643 & -4.031 & 6.531 \\
+music_type[T.Hardstyle]:time_awake[T.4-8h] & 0.728 & 2.696 & 0.270 & 0.787 & -4.555 & 6.011 \\
+music_type[T.Classical]:time_awake[T.12h+] & -0.665 & 2.474 & -0.269 & 0.788 & -5.514 & 4.184 \\
+music_type[T.Hardstyle]:time_awake[T.12h+] & 0.525 & 2.507 & 0.209 & 0.834 & -4.390 & 5.439 \\
+Group Var & 575.411 & 66.739 &  &  &  &  \\
+\bottomrule
+\end{tabular}
+
+        \end{table}
