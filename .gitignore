@@ -239,7 +239,7 @@ pyrightconfig.json
 
 ### html and pdf files
 *.html
-*.pdf
+# *.pdf
 *.tex
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,jupyternotebooks,python
