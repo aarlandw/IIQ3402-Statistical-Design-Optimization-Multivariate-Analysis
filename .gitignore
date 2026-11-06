@@ -246,3 +246,25 @@ pyrightconfig.json
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
+./figures
+
+# Jupyter Book build output
+book/_build/
+
+# Claude context
+CLAUDE.md
+
+# Source material (local only, not for version control)
+LibroClase/
+
+# Obsidian vault (local only, not for version control)
+vault/
+.obsidian/
+
+# Generated book assets
+book/figures/
+book/__pycache__/
+data_generation.ipynb
+
+
+.claude/
